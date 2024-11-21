@@ -1,29 +1,26 @@
-<h2 align="center">About me</h2>
-<div align="center">
 
-I'm beginner.
 
-</div>
 <h2 align="center">Languages</h2>
 <div align="center">
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&logoColor=white&labelColor=grey&color=black)
+![C++](https://img.shields.io/badge/C%2B%2B-black?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=grey&color=black)
+![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=white&labelColor=grey&color=black)
+![Rust](https://img.shields.io/badge/rust-black?style=for-the-badge&logo=rust&logoColor=white&labelColor=grey&color=black)
 
 </div>
+
 <h2 align="center">Tools/apps</h2>
 <div align="center">
-
-![Visual Studio Code](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
+  
+![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux&logoColor=white&labelColor=grey&color=black)
+![Visual Studio Code](https://img.shields.io/badge/vscode-black?style=for-the-badge&logoColor=white)
+![CMake](https://img.shields.io/badge/cmake-black?style=for-the-badge&logo=cmake&logoColor=white&labelColor=grey&color=black)
 
 </div>
 <h2 align="center">Statistic</h2>
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=varvarian1&theme=onedark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varvarian1&layout=donut-vertical&bg_color=222222&text_color=888888)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varvarian1&layout=compact&theme=vision-friendly-dark&card_width=650)
 
 </div>
