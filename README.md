@@ -14,9 +14,14 @@ Focused on compilers and low-level programming.
 *   **Python** – For scripting, automation, and tooling.
 *   **Bash** – For daily automation and system management.
 
+**Tools**
+*   **Build Systems:** CMake, Make
+*   **Containers:** Docker
+*   **Version Control:** Git
+
 ---
 
-### 📁 **Setup & Dotfiles**
+### 📁 **Setup**
 
 > My computing environment is minimal and keyboard-driven, built for focus and efficiency.
 
@@ -24,10 +29,6 @@ Focused on compilers and low-level programming.
 *   **Window Manager:** bspwm
 *   **Terminal:** Alacritty
 *   **Editor/IDE:** VSCode
-*   **Build Systems:** CMake, Make
-*   **Containers:** Docker
-*   **Version Control:** Git
-
 
 ---
 
