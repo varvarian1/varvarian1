@@ -12,6 +12,7 @@ Focused on compilers and low-level programming.
 **Languages**
 *   **C/C++** – For systems programming, performance-critical applications, and learning internals.
 *   **Python** – For scripting, automation, and tooling.
+*   **JS** – For exploring programming paradigms and completing university assignments.
 *   **Bash** – For daily automation and system management.
 
 **Tools**
